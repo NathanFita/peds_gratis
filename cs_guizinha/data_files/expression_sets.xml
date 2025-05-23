@@ -1,0 +1,52 @@
+<fwExpressionSetManager>
+  <ExpressionSets>
+  <Item key="expr_set_cs_kara" type="fwExpressionSet">
+      <DictionaryIds>
+        <Item>CS_TigerHandler_FACE</Item>
+        <Item>CS_MrsAdler</Item>
+        <Item>ped_shared</Item>
+        <Item>default</Item>
+      </DictionaryIds>
+      <Groups>
+        <Item type="fwExpressionSetItemGroup">
+            <DictId>CS_TigerHandler_FACE</DictId>
+          <Items>
+            <Item key="RigFATXML_BrendaCrawley" type="fwExpressionItem" />
+            <Item key="RigFATXML_BrendaCrawley_lod1" type="fwExpressionItem" />
+          </Items>
+        </Item>
+        <Item type="fwExpressionSetItemGroup">
+          <DictId>ped_shared</DictId>
+          <Items>
+            <Item key="XHToMover" type="fwExpressionItem" />
+            <Item key="HairScale" type="fwExpressionItem" />
+            <Item key="HairScale_lod1" type="fwExpressionItem" />
+            <Item key="CompressionJoints" type="fwExpressionItem" />
+            <Item key="CompressionJoints_lod1" type="fwExpressionItem" />
+            <Item key="Hands_Base" type="fwExpressionItem" />
+            <Item key="Rollbones" type="fwExpressionItem" />
+            <Item key="Rollbones_lod1" type="fwExpressionItem" />
+            <Item key="breasts" type="fwExpressionItem" />
+            <Item key="Heels" type="fwExpressionItem" />
+          </Items>
+        </Item>
+        <Item type="fwExpressionSetItemGroup">
+          <DictId>default</DictId>
+          <Items>
+            <Item key="CP_Generic" type="fwExpressionItem" />
+            <Item key="ObjectSpacePH" type="fwExpressionItem" />
+            <Item key="CoatHipOffset" type="fwExpressionItem" />
+            <Item key="HeadTracking" type="fwExpressionItem" />
+            <Item key="HeadTracking_lod1" type="fwExpressionItem" />
+          </Items>
+        </Item>
+                <Item type="fwExpressionSetItemGroup">
+          <DictId>CS_MrsAdler</DictId>
+          <Items>
+            <Item key="CS_MrsAdler_Holster" type="fwExpressionItem" />
+          </Items>
+        </Item>
+      </Groups>
+    </Item>
+  </ExpressionSets>
+</fwExpressionSetManager>
